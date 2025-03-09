@@ -51,5 +51,22 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
-  }
+  },
+  "description": "Chef AI is a next-generation cooking companion that leverages artificial intelligence to transform your cooking experience. The application helps you discover, generate, customize, and plan meals based on your personal preferences, available ingredients, and dietary requirements.",
+  "main": "tailwind.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CGAIDevelopment/chef-ai-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CGAIDevelopment/chef-ai-app/issues"
+  },
+  "homepage": "https://github.com/CGAIDevelopment/chef-ai-app#readme"
 }
